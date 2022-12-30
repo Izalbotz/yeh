@@ -1,3 +1,4 @@
+<details>
 <br/>
 
 <p align="center">
@@ -593,3 +594,4 @@ To contribute, see the [Contributing guide](https://github.com/arifszn/gitprofil
 ## 📄 License
 
 [MIT](https://github.com/arifszn/gitprofile/blob/main/LICENSE)
+</details>
